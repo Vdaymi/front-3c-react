@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/front-3c-react/static/css/main.83e66d36.css",
+    "main.js": "/front-3c-react/static/js/main.95392d3e.js",
+    "index.html": "/front-3c-react/index.html",
+    "main.83e66d36.css.map": "/front-3c-react/static/css/main.83e66d36.css.map",
+    "main.95392d3e.js.map": "/front-3c-react/static/js/main.95392d3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83e66d36.css",
+    "static/js/main.95392d3e.js"
+  ]
+}
